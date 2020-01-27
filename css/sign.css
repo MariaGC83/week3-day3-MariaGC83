@@ -1,0 +1,49 @@
+.sign {
+    
+    color: #5b6b82;
+    font-family: "Source Sans Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    background: #fff;
+    border: 0.581197px solid #5b6b82; 
+    box-sizing: border-box;
+    border-radius: 2.32479px;
+}
+
+.sign__free {
+    
+}
+
+.sign__small {
+
+}
+
+.sign__profesional {
+
+}
+
+.sign__enterprise {
+
+}
+
+
+
+
+
+/* Rectangle 2 Copy 3 */
+
+position: absolute;
+width: 129px;
+height: 36px;
+left: 88px;
+top: 345px;
+
+background: #FFFFFF;
+border: 0.581197px solid #5B6B82;
+box-sizing: border-box;
+border-radius: 2.32479px;
+
+

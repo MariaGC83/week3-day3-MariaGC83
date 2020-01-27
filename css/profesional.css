@@ -1,0 +1,18 @@
+
+.profesional {
+    position: absolute;
+    width: 223px;
+    height: 330px;
+    left: 487px;
+    top: 90px;
+    background: #fff;
+    border: 2px solid #3ccf8e;
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    font-family: "Source Sans Pro";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    }
+    

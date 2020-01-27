@@ -1,0 +1,12 @@
+body {
+    position: absolute;
+    background-color: #fff;
+}
+
+.plans {
+    width: 974px;
+    height: 502px;
+    position: relative;
+    background: #f5fafd
+}
+

@@ -1,0 +1,33 @@
+.profile__modelOne {
+position: absolute;
+width: 155px;
+height: 154px;
+left: 123px;
+top: 97px;
+background: url();
+border-radius: 50%;  
+}
+
+.profile__modelTwo {
+position: absolute;
+width: 155px;
+height: 154px;
+left: 406px;
+top: 97px;
+background: url();
+border-radius: 50%;
+   
+}
+
+.profile__modelThree {
+position: absolute;
+width: 155px;
+height: 154px;
+left: 687px;
+top: 93px;
+background: url(Image.png);
+border-radius: 50%;
+
+}
+
+
